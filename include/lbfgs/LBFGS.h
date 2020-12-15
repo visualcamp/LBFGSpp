@@ -5,11 +5,11 @@
 #define LBFGS_H
 
 #include <Eigen/Core>
-#include "LBFGSpp/Param.h"
-#include "LBFGSpp/BFGSMat.h"
-#include "LBFGSpp/LineSearchBacktracking.h"
-#include "LBFGSpp/LineSearchBracketing.h"
-#include "LBFGSpp/LineSearchNocedalWright.h"
+#include "lbfgs/LBFGSpp/Param.h"
+#include "lbfgs/LBFGSpp/BFGSMat.h"
+#include "lbfgs/LBFGSpp/LineSearchBacktracking.h"
+#include "lbfgs/LBFGSpp/LineSearchBracketing.h"
+#include "lbfgs/LBFGSpp/LineSearchNocedalWright.h"
 
 
 namespace LBFGSpp {

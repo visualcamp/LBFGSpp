@@ -6,7 +6,7 @@
 
 #include <vector>
 #include <Eigen/Core>
-#include "BKLDLT.h"
+#include "lbfgs/LBFGSpp/BKLDLT.h"
 
 
 /// \cond
